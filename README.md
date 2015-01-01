@@ -46,7 +46,7 @@ yo mithrilbp:module <name>
 To create a new model navigate to the root directory of your project and write
 
 ```bash
-yo mithrilbp:module <name>
+yo mithrilbp:model <name>
 ```
 
 To create a new component navigate to the root directory of your project and write
