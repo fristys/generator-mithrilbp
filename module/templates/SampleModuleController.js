@@ -2,7 +2,7 @@
 
   // Controller
   app.module('<%= name %>Module').controller = function () {
-    this.test = 'Under construction';
+    this.test = m.prop('Under construction');
   };
 
 })(m, app);
